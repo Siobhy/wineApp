@@ -335,6 +335,7 @@ img {
   border-radius: 50%;
 }
 hr {
+  width: 50%;
   margin-top: 20px;
   margin-bottom: 20px;
   border: 0;

@@ -6,7 +6,7 @@ $(document).ready(function() {
 
 //Create a new map instance
 
-var map2 = new GMaps({
+var map = new GMaps({
 	div: "#map",
 	zoom:15,
 	lat: -12.043333,
